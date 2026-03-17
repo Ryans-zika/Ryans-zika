@@ -31,8 +31,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryans&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryans-zika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryans-zika&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryans-zika&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
