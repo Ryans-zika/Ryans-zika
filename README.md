@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ryan 👋</h1>
+<h1 align="center">Oi, Eu sou Ryan 👋</h1>
 
 <p align="center">
   <em>Estudante de Engenharia de Software • Sempre aprendendo • Construindo coisas legais</em>
